@@ -1,0 +1,117 @@
+body
+        {
+            background-color: white;
+            font-family: 'Outfit', sans-serif;
+        }    
+
+header {
+    background-color: rgb(228, 32, 32);
+}
+
+
+
+.container {
+    background-color: rgb(246, 246, 246);
+    width: 650px;
+    margin: auto;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px
+    ;
+
+    }
+
+
+
+.textocabecera {
+    
+        align-items: flex-start;
+        font-size: 16px;
+        text-align: left;
+        font-style: bold;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+.post {
+    align-items: center;
+    height: 810px;
+}
+
+.iconohtml
+            {
+            display: flex;
+            height: 55px;
+            justify-content: flex-start;
+            padding-top: 10px;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-right: 10px;    
+        }
+
+
+.puntos {
+    display: flex;    
+    justify-content: flex-end;
+    padding-left: 385px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    size: 0;
+}
+
+.iconos-iz {
+    display: flex;
+    height: 50px;
+    justify-content: flex-start;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+
+        }           
+.iconos-de {
+            display: flex;    
+            justify-content: flex-end;
+            padding-top: 10px;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-right: 10px;
+            height: 50px;
+        }
+
+.texto{
+        
+        width: 350px;
+        display: flex;
+        justify-content: left;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        text-align: left;
+        font-family: 'Outfit';
+
+}
+h1 { 
+    font-size: 18px;
+    font-family: 'Outfit';
+    text-align: left;
+}
+
+.texto1 {
+
+    font-family: 'Outfit';
+    padding: 10px;
+    font-size: 18px;
+
+}
+.texto_largo {
+
+    font-family: 'Outfit';
+    padding: 10px;
+    font-size: 18px;
+}
+
+.bloque1 {
+    padding-left: 10px;
+}
+
